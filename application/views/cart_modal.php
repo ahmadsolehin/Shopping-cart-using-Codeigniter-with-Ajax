@@ -29,7 +29,7 @@
                      <img src="<?php echo base_url(); ?>/images/<?php echo $data['image'] ?>" alt="<?php echo $data['id'] ?>">
                   </td>
                   <td class="name"><?php echo $data['name'] ?></td>
-                  <td class="price">INR <span class="price<?php echo $data['rowid'] ?>"><?php echo $data['price'] ?></span></td>
+                  <td class="price">RM <span class="price<?php echo $data['rowid'] ?>"><?php echo $data['price'] ?></span></td>
                   <td class="qnt-count">
                     <input class="quantity qty<?php echo $data['rowid'] ?> form-control" type="number" min="1" value="<?php echo $data['qty'] ?>">
                     <span class="Update" onclick="javascript:updateproduct('<?php echo $data['rowid'] ?>')">Update</span>
