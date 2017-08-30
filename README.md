@@ -1,3 +1,7 @@
+### Simple shopping cart using Codeigniter with Ajax
+
+Shopping cart is using to make e-commerce project. this is one of the most important needs for all web developers. here I'm going give you and very simple code to make the flow of shopping cart with ajax. these all combination of some of my previous articles. refer those also for your reference. CodeIgniter provides predefined cart class, we are just using it for our need. Let's see the process.
+
 ## Screenshot
 ![nn](https://user-images.githubusercontent.com/12325386/29851978-f1b8c5be-8d69-11e7-879a-9ee9b9f5b9a4.JPG)
 
