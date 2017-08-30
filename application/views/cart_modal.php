@@ -45,7 +45,7 @@
                
                 <tr class="item">
                   <td class="thumb" colspan="4" align="right">&nbsp;</td>
-                  <td class="">INR <span class="grandtotal">0</span> </td>
+                  <td class="">RM <span class="grandtotal">0</span> </td>
                   <td>&nbsp;</td>
                 </tr>
               </tbody></table>
