@@ -154,7 +154,7 @@ th{
             ?>
           	<div class="col-lg-3 col-md-4 col-sm-6">
             	<div class="tile">
-              	<div class="price-label price<?php echo $data['id'] ?>" rel="<?php echo $data['price'] ?>">INR <?php echo $data['price'] ?></div>
+              	<div class="price-label price<?php echo $data['id'] ?>" rel="<?php echo $data['price'] ?>">RM <?php echo $data['price'] ?></div>
                   <img class="image<?php echo $data['id'] ?>" rel="<?php echo $data['image'] ?>" src="<?php echo base_url(); ?>/images/<?php echo $data['image'] ?>" alt="<?php echo $data['id'] ?>">
                   <span class="tile-overlay"></span>
                 <div class="footer">
