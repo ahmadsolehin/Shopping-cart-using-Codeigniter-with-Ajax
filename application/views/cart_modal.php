@@ -34,7 +34,7 @@
                     <input class="quantity qty<?php echo $data['rowid'] ?> form-control" type="number" min="1" value="<?php echo $data['qty'] ?>">
                     <span class="Update" onclick="javascript:updateproduct('<?php echo $data['rowid'] ?>')">Update</span>
                   </td>
-                  <td class="total">INR <span class="subtotal subtotal<?php echo $data['rowid'] ?>"><?php echo $data['subtotal'] ?></span></td>
+                  <td class="total">RM <span class="subtotal subtotal<?php echo $data['rowid'] ?>"><?php echo $data['subtotal'] ?></span></td>
                   <td class="delete"><i class="icon-delete" onclick="javascript:deleteproduct('<?php echo $data['rowid'] ?>')">X</i></td>
                 </tr>
 
