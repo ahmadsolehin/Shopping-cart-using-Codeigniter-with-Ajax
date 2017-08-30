@@ -27,7 +27,7 @@
             <div align="center">
                 <h1 align="center">Billing Info</h1>
                 <table border="0" cellpadding="2px">
-                    <tr><td>Order Total:</td><td><strong>INR <?php echo $grand_total; ?></strong></td></tr>
+                    <tr><td>Order Total:</td><td><strong>RM <?php echo $grand_total; ?></strong></td></tr>
                     <tr><td>Your Name:</td><td><input type="text" name="name" required=""/></td></tr>
                     <tr><td>Address:</td><td><input type="text" name="address" required="" /></td></tr>
                     <tr><td>Email:</td><td><input type="text" name="email" required="" /></td></tr>
